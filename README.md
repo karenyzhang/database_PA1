@@ -1,5 +1,7 @@
 # database_PA1: Create Your Own IMDb
 
+**Create table SQL statements are in create_tables.ipynb and create_tables.sql files. They have the same statements.**
+
 ## Overview
 This project is a simple web application similar to IMDb that interacts with a MySQL/MariaDB database. The application features a Flask-based UI that allows users to **view movie and actor details, like movies, and execute SQL queries**.
 
